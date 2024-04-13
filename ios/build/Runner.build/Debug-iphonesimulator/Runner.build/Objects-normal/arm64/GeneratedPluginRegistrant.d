@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/apple/AndroidStudioProjects/login_page_idesign_n_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
