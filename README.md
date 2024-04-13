@@ -4,13 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Sure! Here's a concise description you can use for your GitHub readme:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Login Page Design:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter login page offers a sleek and intuitive user experience. Featuring clear text fields for username and password entry, along with helpful prompts like "Forgot Password?", it ensures smooth navigation for users. The inclusion of alternative login methods such as Google and Apple authentication enhances accessibility. With a visually engaging layout and seamless registration integration, this login page promises a user-friendly experience for all.
+
+<img width="343" alt="login page" src="https://github.com/IamaAB/Login-Page-Design-in-Flutter/assets/102419256/41e2b3dc-3fbb-4884-a869-001ef2b60b5f">
